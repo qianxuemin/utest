@@ -9,7 +9,7 @@
 - karma init 初始化karma配置文件karma.conf.js
 - karma start  开始测试
 
-#selenium-webdriver 进行e2e测试步骤
+# selenium-webdriver 进行e2e测试步骤
 - npm install selenium-webdriver
 - 新建测试文件如 e2e.es 编写测试代码
 - 下载浏览器驱动到项目根目录
