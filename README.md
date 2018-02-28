@@ -13,4 +13,4 @@
 - npm install selenium-webdriver
 - 新建测试文件如 e2e.es 编写测试代码
 - 下载浏览器驱动到项目根目录
-- 执行 node e2e.es
+- 执行 node e2e.es 开始测试
